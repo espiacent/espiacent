@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @espiacent
-- 👀 I’m interested in learning more about Pything, HTML, CSS and Javascript.
+- 👀 I’m interested in learning more about Python, HTML, CSS and Javascript.
 - 🌱 I’m currently learning the basics.
 
 <!---
