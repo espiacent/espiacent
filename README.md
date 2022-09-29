@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about programming. I started with Python and am currently focusing on Javascript.
 - 🌱 I’m currently on an intermediate level.
 - :potted_plant: Short term: Finishing "The Odin Project"-Course (more Javascript and Node.js).
-- :deciduous_tree: Mid term: Broadening knowledge of Javascript and picking up another language (maybe C#).
+- :deciduous_tree: Mid term: Broadening knowledge of Javascript (and Frameworks) and picking up another language (maybe C#).
 - :evergreen_tree: Long term: tbd
 
 <!---
